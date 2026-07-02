@@ -1,0 +1,8 @@
+{
+  "version": "2.0",
+  "downloadUrl": "https://mediafire.com/link-de-ejemplo-descarga",
+  "changelog": [
+    "Versión base de lanzamiento de la app."
+  ],
+  "mandatory": false
+}
