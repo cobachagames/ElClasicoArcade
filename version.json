@@ -1,12 +1,11 @@
 {
-  "version": "2.1.1",
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.1.1/El.Clasico.Arcade.Setup.2.1.1.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.1.1/El.Clasico.Arcade.Setup.2.1.1.exe",
+  "version": "2.1.2",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.1.2/El.Clasico.Arcade.Setup.2.1.2.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.1.2/El.Clasico.Arcade.Setup.2.1.2.exe",
   "changelog": [
-    "Versión 2.1.1 de prueba y validación.",
-    "Corrección dinámica del texto indicador de la versión en el menú principal.",
-    "Parche del gestor de descargas en segundo plano con soporte para redirecciones complejas de GitHub.",
-    "Implementación del modo de instalación silenciosa automática sin asistentes visuales."
+    "Versión 2.1.2 - Pantalla completa en primer arranque y parches de instalación silenciosa en segundo plano.",
+    "Corrección del cierre inmediato de Electron para liberar el bloqueo de archivos.",
+    "Parche de compatibilidad shell para la ejecución de instaladores en Windows."
   ],
   "mandatory": true
 }
