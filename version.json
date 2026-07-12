@@ -1,8 +1,11 @@
 {
-  "version": "2.0",
-  "downloadUrl": "https://mediafire.com/link-de-ejemplo-descarga",
+  "version": "2.1.0",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.1.0/El.Clasico.Arcade.Setup.2.1.0.exe",
   "changelog": [
-    "Versión base de lanzamiento de la app."
+    "Eliminación de la interfaz del menú de desarrollo (Dev Menu).",
+    "Corrección del renderizado de texturas de partículas en clientes online.",
+    "Corrección de nombres y niveles de jugadores en el HUD del modo online.",
+    "Sincronización en red de objetos del suelo."
   ],
-  "mandatory": false
+  "mandatory": true
 }
