@@ -1,12 +1,10 @@
 {
-  "version": "2.1.3",
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.1.3/El.Clasico.Arcade.Setup.2.1.3.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.1.3/El.Clasico.Arcade.Setup.2.1.3.exe",
+  "version": "2.5.0",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.0/El.Clasico.Arcade.Setup.2.5.0.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.0/El.Clasico.Arcade.Setup.2.5.0.exe",
   "changelog": [
-    "Versión 2.1.3 - Opción para omitir la introducción después de 5 segundos.",
-    "Añadido indicador de omisión visual en la esquina inferior derecha tras 5 segundos.",
-    "Soporte de omisión mediante cualquier tecla del teclado, mouse, pantalla táctil y gamepad.",
-    "Resolución de fallos y bloqueos de archivos locales en la instalación silenciosa."
+    "Versión 2.5.0 - Prueba definitiva de actualización silenciosa y automática en segundo plano.",
+    "Retraso de seguridad integrado para asegurar el inicio del instalador antes de cerrar el proceso del juego."
   ],
   "mandatory": true
 }
