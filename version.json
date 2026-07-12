@@ -1,7 +1,7 @@
 {
   "version": "2.1.1",
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.1.1/El.Clasico.Arcade.Setup.2.1.1.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.1.1/El.Clasico.Arcade.Setup.2.1.1.exe",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.1.1/El%20Clasico%20Arcade%20Setup%202.1.1.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.1.1/El%20Clasico%20Arcade%20Setup%202.1.1.exe",
   "changelog": [
     "Versión 2.1.1 de prueba y validación.",
     "Corrección dinámica del texto indicador de la versión en el menú principal.",
