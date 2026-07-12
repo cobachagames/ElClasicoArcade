@@ -1,5 +1,6 @@
 {
   "version": "2.1.0",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.1.0/El.Clasico.Arcade.Setup.2.1.0.exe",
   "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.1.0/El.Clasico.Arcade.Setup.2.1.0.exe",
   "changelog": [
     "Eliminación de la interfaz del menú de desarrollo (Dev Menu).",
