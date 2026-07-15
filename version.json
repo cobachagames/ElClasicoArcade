@@ -1,11 +1,14 @@
 {
-  "version": "2.5.2",
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.2/El.Clasico.Arcade.Setup.2.5.2.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.2/El.Clasico.Arcade.Setup.2.5.2.exe",
+  "version": "2.5.6",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.6/El.Clasico.Arcade.Setup.2.5.6.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.6/El.Clasico.Arcade.Setup.2.5.6.exe",
   "changelog": [
-    "Versión 2.5.2 - Test definitivo de instalación desvinculada de proceso de fondo.",
-    "Omitir la intro tras 5 segundos.",
-    "Apertura automática en pantalla completa."
+    "Versión 2.5.6 - Tienda individual, balance de dificultad, bonus de combos y correcciones estéticas.",
+    "Tienda individual separada para cada jugador en cooperativo local.",
+    "Animación de correr del Jefe 2 más lenta, fluida y con ciclo de frames mejorado.",
+    "Inversión estereofónica del audio del proyectil en Jefe 4 y Jefe 5 al lanzar a la izquierda.",
+    "Niveles Difícil, Extremo e Imposible ahora traen el doble de enemigos y oleadas de 10 concurrentes.",
+    "Bonus de monedas por combos de golpes cada 20 impactos y HUD de enemigos oculto."
   ],
   "mandatory": true
 }
