@@ -1,14 +1,17 @@
 {
-  "version": "2.5.6",
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.6/El.Clasico.Arcade.Setup.2.5.6.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/2.5.6/El.Clasico.Arcade.Setup.2.5.6.exe",
+  "version": "2.5.7",
+  "mandatory": false,
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.7/ElClasicoArcade-PC.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.7/ElClasicoArcade-Mobile.apk",
   "changelog": [
-    "Versión 2.5.6 - Tienda individual, balance de dificultad, bonus de combos y correcciones estéticas.",
-    "Tienda individual separada para cada jugador en cooperativo local.",
-    "Animación de correr del Jefe 2 más lenta, fluida y con ciclo de frames mejorado.",
-    "Inversión estereofónica del audio del proyectil en Jefe 4 y Jefe 5 al lanzar a la izquierda.",
-    "Niveles Difícil, Extremo e Imposible ahora traen el doble de enemigos y oleadas de 10 concurrentes.",
-    "Bonus de monedas por combos de golpes cada 20 impactos y HUD de enemigos oculto."
-  ],
-  "mandatory": true
+    "Mejora en la calidad del video pre-intro (720p sin pixelación)",
+    "Fondo de inicio restaurado correctamente al salir de los videos",
+    "Lobby online móvil optimizado con tarjetas de jugadores dispuestas horizontalmente",
+    "Menú de configuración con diseño totalmente responsivo para pantallas pequeñas",
+    "Soporte y solicitud de permisos nativos de micrófono en Android",
+    "Físicas de salto y movimiento sincronizadas entre PC y Celular",
+    "Guardado asincrónico para eliminar tirones al iniciar niveles",
+    "Optimización de paquetes de red WebRTC para reducir lag en multijugador",
+    "Bloqueo estricto de trucos en partidas multijugador online"
+  ]
 }
