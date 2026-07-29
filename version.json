@@ -2,11 +2,5 @@
   "version": "2.5.7",
   "mandatory": false,
   "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.7/ElClasicoArcade-PC.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.7/ElClasicoArcade-Mobile.apk",
-  "changelog": [
-    "Mejora en la calidad del video pre-intro (720p sin pixelación)",
-    "Fondo de inicio restaurado correctamente al salir de los videos",
-    "Lobby online móvil optimizado con tarjetas de jugadores dispuestas horizontalmente",
-    
-  ]
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.7/ElClasicoArcade-Mobile.apk"
 }
