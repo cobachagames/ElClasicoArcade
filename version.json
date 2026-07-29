@@ -7,11 +7,6 @@
     "Mejora en la calidad del video pre-intro (720p sin pixelación)",
     "Fondo de inicio restaurado correctamente al salir de los videos",
     "Lobby online móvil optimizado con tarjetas de jugadores dispuestas horizontalmente",
-    "Menú de configuración con diseño totalmente responsivo para pantallas pequeñas",
-    "Soporte y solicitud de permisos nativos de micrófono en Android",
-    "Físicas de salto y movimiento sincronizadas entre PC y Celular",
-    "Guardado asincrónico para eliminar tirones al iniciar niveles",
-    "Optimización de paquetes de red WebRTC para reducir lag en multijugador",
-    "Bloqueo estricto de trucos en partidas multijugador online"
+    
   ]
 }
