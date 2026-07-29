@@ -1,6 +1,6 @@
 {
   "version": "2.5.7",
-  "mandatory": false,
+  "mandatory": true,
   "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.7/ElClasicoArcade-PC.exe",
   "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.7/ElClasicoArcade-Mobile.apk"
 }
