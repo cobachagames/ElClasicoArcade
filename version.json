@@ -1,6 +1,6 @@
 {
   "version": "2.5.11",
   "notes": "¡Nueva versión 2.5.11! Incluye cartel de advertencia en la tienda del Nivel 4, ranking global integrado en la web, estadísticas en tiempo real y menú dev exclusivo.",
-  "downloadUrl": "https://raw.githubusercontent.com/cobachagames/ElClasicoArcade/main/El.Clasico.Arcade.exe",
-  "downloadUrlAndroid": "https://raw.githubusercontent.com/cobachagames/ElClasicoArcade/main/app-debug.apk"
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/El.Clasico.Arcade.exe",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/app-debug.apk"
 }
