@@ -1,12 +1,10 @@
 {
-  "version": "2.5.12",
+  "version": "2.5.14",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.12/El.Clasico.Arcade.Setup.2.5.12.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.12/El.Clasico.Arcade.Setup.2.5.12.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.12/app-debug.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.12/app-debug.apk",
-  "notes": "¡Versión 2.5.12! Correcciones críticas en móvil: videos de inicio, lobby online, fluidez y nombres en HUD.",
-  "changelog": [
-    "Corregido video de fondo en pantalla Inserte Fichín (fondo pre intro.mp4 y video preinicio.mp4)."
-  ]
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.14/El.Clasico.Arcade.Setup.2.5.14.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.14/El.Clasico.Arcade.Setup.2.5.14.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.14/app-debug.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.14/app-debug.apk",
+  "notes": "¡Nueva versión 2.5.14 disponible!",
+  "changelog": []
 }
