@@ -1,10 +1,10 @@
 {
   "version": "2.5.11",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/ElClasicoArcade-PC.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/ElClasicoArcade-PC.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/ElClasicoArcade-Mobile.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/ElClasicoArcade-Mobile.apk",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/El.Clasico.Arcade.Setup.2.5.11.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/El.Clasico.Arcade.Setup.2.5.11.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/app-debug.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/app-debug.apk",
   "notes": "¡Nueva versión 2.5.11! Nuevos efectos y voces de personajes, mejoras en la física de salto y velocidad, sincronización del tren con efectos de impacto.",
   "changelog": [
     "Nuevos sonidos y voces de selección y ataques de personajes (Chelo, Mellisos, Mr Ajo)."
