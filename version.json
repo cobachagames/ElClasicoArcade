@@ -7,10 +7,6 @@
   "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.12/app-debug.apk",
   "notes": "¡Versión 2.5.12! Correcciones críticas en móvil: videos de inicio, lobby online, fluidez y nombres en HUD.",
   "changelog": [
-    "Corregido video de fondo en pantalla Inserte Fichín (fondo pre intro.mp4 y video preinicio.mp4).",
-    "Botones del lobby online (Darse Listo / Elegir Personaje) reubicados en barra dedicada con hitbox preciso.",
-    "Videos de personajes pre-nivel 1 y tren nivel 2 sincronizados a assets de Android.",
-    "Corregido bug de nicknames: el HUD ahora muestra el nombre del personaje en modo local y el nickname solo en modo online.",
-    "Velocidad del juego restaurada a 60fps correctos en Android WebView."
+    "Corregido video de fondo en pantalla Inserte Fichín (fondo pre intro.mp4 y video preinicio.mp4)."
   ]
 }
