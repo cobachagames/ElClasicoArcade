@@ -7,9 +7,6 @@
   "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.11/ElClasicoArcade-Mobile.apk",
   "notes": "¡Nueva versión 2.5.11! Nuevos efectos y voces de personajes, mejoras en la física de salto y velocidad, sincronización del tren con efectos de impacto.",
   "changelog": [
-    "Nuevos sonidos y voces de selección y ataques de personajes (Chelo, Mellisos, Mr Ajo).",
-    "Física de salto calibrada: mayor altura y mejor tiempo de suspensión en el aire.",
-    "Velocidad y ritmo de desplazamiento balanceados.",
-    "Mecánica del tren sincronizada con impacto a los 3s, sonido calibrado y daño optimizado."
+    "Nuevos sonidos y voces de selección y ataques de personajes (Chelo, Mellisos, Mr Ajo)."
   ]
 }
