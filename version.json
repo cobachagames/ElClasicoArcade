@@ -1,12 +1,12 @@
 {
-  "version": "2.5.15",
+  "version": "2.5.16",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.15/El.Clasico.Arcade.Setup.2.5.15.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.15/El.Clasico.Arcade.Setup.2.5.15.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.15/app-debug.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.15/app-debug.apk",
-  "notes": "actualizaciones de fallos para que el gay de mati gane",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/El.Clasico.Arcade.Setup.2.5.16.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/El.Clasico.Arcade.Setup.2.5.16.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/app-debug.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/app-debug.apk",
+  "notes": "Hasta mañana vieja",
   "changelog": [
-    "actualizaciones de fallos para que el gay de mati gane"
+    "Hasta mañana vieja"
   ]
 }
