@@ -1,12 +1,12 @@
 {
-  "version": "2.5.16",
+  "version": "2.5.17",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/El.Clasico.Arcade.Setup.2.5.16.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/El.Clasico.Arcade.Setup.2.5.16.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/app-debug.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.16/app-debug.apk",
-  "notes": "Hasta mañana vieja",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.17/El.Clasico.Arcade.Setup.2.5.17.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.17/El.Clasico.Arcade.Setup.2.5.17.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.17/app-debug.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.17/app-debug.apk",
+  "notes": "la concha de tu madre rodri",
   "changelog": [
-    "Hasta mañana vieja"
+    "la concha de tu madre rodri"
   ]
 }
