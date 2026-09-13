@@ -1,12 +1,15 @@
 {
-  "version": "2.5.20",
+  "version": "2.5.21",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.20/El.Clasico.Arcade.Setup.2.5.20.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.20/El.Clasico.Arcade.Setup.2.5.20.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.20/app-debug.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.20/app-debug.apk",
-  "notes": "la concha de tu madre rodri",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/El.Clasico.Arcade.Setup.2.5.21.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/El.Clasico.Arcade.Setup.2.5.21.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/app-debug.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/app-debug.apk",
+  "notes": "v2.5.21: Sincronización de animaciones online, fix wifi offline, desactivar efectos y notificación de desconexión",
   "changelog": [
-    "la concha de tu madre rodri"
+    "Optimizaciones para dispositivos de 2GB-4GB RAM con opción de desactivar efectos",
+    "Fix bucle de actualización en versión móvil",
+    "Indicador de estado WiFi en pantalla",
+    "Notificaciones de salida de jugadores en partidas online"
   ]
 }
