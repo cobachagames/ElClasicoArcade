@@ -1,15 +1,15 @@
 {
-  "version": "2.5.21",
+  "version": "2.5.22",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/El.Clasico.Arcade.Setup.2.5.21.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/El.Clasico.Arcade.Setup.2.5.21.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/app-debug.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.21/app-debug.apk",
-  "notes": "v2.5.21: Sincronización de animaciones online, fix wifi offline, desactivar efectos y notificación de desconexión",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/El.Clasico.Arcade.Setup.2.5.22.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/El.Clasico.Arcade.Setup.2.5.22.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/app-debug.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/app-debug.apk",
+  "notes": "v2.5.22: Fix audio micrófono WebRTC en PC y móvil, pantalla de carga previa al nivel 1, apodo fijo en online",
   "changelog": [
-    "Optimizaciones para dispositivos de 2GB-4GB RAM con opción de desactivar efectos",
-    "Fix bucle de actualización en versión móvil",
-    "Indicador de estado WiFi en pantalla",
-    "Notificaciones de salida de jugadores en partidas online"
+    "Arreglado audio de micrófono WebRTC para comunicación por voz en PC y celular",
+    "Nueva animación y pantalla de carga Cargando Nivel 1 previa al juego para sincronización",
+    "Apodo fijo permanente deshabilitado contra cambios en el menú online",
+    "Mejora en notificaciones de desconexión de jugadores en partida online"
   ]
 }
