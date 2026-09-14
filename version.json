@@ -1,15 +1,12 @@
 {
-  "version": "2.5.22",
+  "version": "2.5.26",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/El.Clasico.Arcade.Setup.2.5.22.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/El.Clasico.Arcade.Setup.2.5.22.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/app-debug.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.22/app-debug.apk",
-  "notes": "v2.5.22: Fix audio micrófono WebRTC en PC y móvil, pantalla de carga previa al nivel 1, apodo fijo en online",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/El.Clasico.Arcade.Setup.2.5.26.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/El.Clasico.Arcade.Setup.2.5.26.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/app-debug.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/app-debug.apk",
+  "notes": "v2.5.26: ueppp",
   "changelog": [
-    "Arreglado audio de micrófono WebRTC para comunicación por voz en PC y celular",
-    "Nueva animación y pantalla de carga Cargando Nivel 1 previa al juego para sincronización",
-    "Apodo fijo permanente deshabilitado contra cambios en el menú online",
-    "Mejora en notificaciones de desconexión de jugadores en partida online"
+    "ueppp"
   ]
 }
