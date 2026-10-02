@@ -1,12 +1,12 @@
 {
-  "version": "2.5.26",
+  "version": "2.5.27",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/El.Clasico.Arcade.Setup.2.5.26.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/El.Clasico.Arcade.Setup.2.5.26.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/app-debug.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.26/app-debug.apk",
-  "notes": "v2.5.26: ueppp",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27-PC.zip",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27-PC.zip",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27.apk",
+  "notes": "v2.5.27: funcionaaaaa",
   "changelog": [
-    "ueppp"
+    "funcionaaaaa"
   ]
 }
