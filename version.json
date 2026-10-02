@@ -1,12 +1,12 @@
 {
-  "version": "2.5.32",
+  "version": "2.5.33",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.32/El.Clasico.Arcade.Setup.2.5.32.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.32/El.Clasico.Arcade.Setup.2.5.32.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.32/ElClasicoArcade-v2.5.32.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.32/ElClasicoArcade-v2.5.32.apk",
-  "notes": "v2.5.32: Tienda móvil reducida y partida más ágil.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/El.Clasico.Arcade.Setup.2.5.33.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/El.Clasico.Arcade.Setup.2.5.33.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/ElClasicoArcade-v2.5.33.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/ElClasicoArcade-v2.5.33.apk",
+  "notes": "v2.5.33: Rendimiento y HUD móvil corregidos.",
   "changelog": [
-    "Tienda móvil más compacta y mayor velocidad de personajes, enemigos y saltos."
+    "Tienda móvil reducida, volumen nativo restaurado y combate optimizado."
   ]
 }
