@@ -1,12 +1,12 @@
 {
-  "version": "2.5.28",
+  "version": "2.5.31",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/El.Clasico.Arcade.Setup.2.5.28.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/El.Clasico.Arcade.Setup.2.5.28.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/ElClasicoArcade-v2.5.28.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/ElClasicoArcade-v2.5.28.apk",
-  "notes": "v2.5.28: Ranking, pre-intro, sonido y rendimiento móvil corregidos.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.31/El.Clasico.Arcade.Setup.2.5.31.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.31/El.Clasico.Arcade.Setup.2.5.31.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.31/ElClasicoArcade-v2.5.31.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.31/ElClasicoArcade-v2.5.31.apk",
+  "notes": "v2.5.31: Sincronización de ranking corregida.",
   "changelog": [
-    "Ranking corregido, pre-intro Cobacha restaurada, enemigos más fluidos y audio móvil mejorado."
+    "El ranking ahora sincroniza automáticamente monedas, enemigos y tiempo de juego."
   ]
 }
