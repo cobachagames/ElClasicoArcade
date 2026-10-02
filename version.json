@@ -1,12 +1,12 @@
 {
-  "version": "2.5.33",
+  "version": "2.5.35",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/El.Clasico.Arcade.Setup.2.5.33.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/El.Clasico.Arcade.Setup.2.5.33.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/ElClasicoArcade-v2.5.33.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.33/ElClasicoArcade-v2.5.33.apk",
-  "notes": "v2.5.33: Rendimiento y HUD móvil corregidos.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/El.Clasico.Arcade.Setup.2.5.35.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/El.Clasico.Arcade.Setup.2.5.35.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/ElClasicoArcade-v2.5.35.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/ElClasicoArcade-v2.5.35.apk",
+  "notes": "v2.5.35: Corregido el audio al cerrar el juego y durante los videos de introducción.",
   "changelog": [
-    "Tienda móvil reducida, volumen nativo restaurado y combate optimizado."
+    "Corregido el audio al cerrar el juego y durante los videos de introducción."
   ]
 }
