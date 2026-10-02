@@ -1,12 +1,12 @@
 {
-  "version": "2.5.35",
+  "version": "2.5.36",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/El.Clasico.Arcade.Setup.2.5.35.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/El.Clasico.Arcade.Setup.2.5.35.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/ElClasicoArcade-v2.5.35.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.35/ElClasicoArcade-v2.5.35.apk",
-  "notes": "v2.5.35: Corregido el audio al cerrar el juego y durante los videos de introducción.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.36/El.Clasico.Arcade.Setup.2.5.36.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.36/El.Clasico.Arcade.Setup.2.5.36.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.36/ElClasicoArcade-v2.5.36.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.36/ElClasicoArcade-v2.5.36.apk",
+  "notes": "v2.5.36: Corregido el conteo de tiempo de juego.",
   "changelog": [
-    "Corregido el audio al cerrar el juego y durante los videos de introducción."
+    "El tiempo solo se contabiliza durante una partida activa y se pausa al minimizar, bloquear o cambiar de aplicación."
   ]
 }
