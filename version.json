@@ -1,12 +1,12 @@
 {
-  "version": "2.5.27",
+  "version": "2.5.28",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27-PC.zip",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27-PC.zip",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.27/ElClasicoArcade-v2.5.27.apk",
-  "notes": "v2.5.27: funcionaaaaa",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/El.Clasico.Arcade.Setup.2.5.28.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/El.Clasico.Arcade.Setup.2.5.28.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/ElClasicoArcade-v2.5.28.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.28/ElClasicoArcade-v2.5.28.apk",
+  "notes": "v2.5.28: Ranking, pre-intro, sonido y rendimiento móvil corregidos.",
   "changelog": [
-    "funcionaaaaa"
+    "Ranking corregido, pre-intro Cobacha restaurada, enemigos más fluidos y audio móvil mejorado."
   ]
 }
