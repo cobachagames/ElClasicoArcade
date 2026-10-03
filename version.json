@@ -1,13 +1,13 @@
 {
-  "version": "2.5.38",
+  "version": "2.5.39",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/El.Clasico.Arcade.Setup.2.5.38.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/El.Clasico.Arcade.Setup.2.5.38.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/ElClasicoArcade-v2.5.38.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/ElClasicoArcade-v2.5.38.apk",
-  "notes": "v2.5.38: Corrección de música durante Pre Intro 2, persistencia del nombre del jugador tras reinstalar, contador de horas jugadas en segundo plano y volumen físico móvil.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/El.Clasico.Arcade.Setup.2.5.39.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/El.Clasico.Arcade.Setup.2.5.39.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/ElClasicoArcade-v2.5.39.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/ElClasicoArcade-v2.5.39.apk",
+  "notes": "v2.5.39: Corrección de opacidad de controles, horas jugadas, recomendación de controles en carga, y escalado de tienda móvil.",
   "changelog": [
-    "Corregida la música del lobby que comenzaba prematuramente al iniciar Pre Intro 2",
-    "El nombre del jugador ahora se recupera correctamente después de desinstalar y reinstalar"
+    "Corregida la opacidad de controles al volver del segundo plano.",
+    "Corregido el contador de horas jugadas en Android."
   ]
 }
