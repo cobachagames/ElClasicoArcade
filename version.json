@@ -1,12 +1,13 @@
 {
-  "version": "2.5.37",
+  "version": "2.5.38",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.37/El.Clasico.Arcade.Setup.2.5.37.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.37/El.Clasico.Arcade.Setup.2.5.37.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.37/ElClasicoArcade-v2.5.37.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.37/ElClasicoArcade-v2.5.37.apk",
-  "notes": "v2.5.37: Corregida la música durante la introducción y el volumen móvil.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/El.Clasico.Arcade.Setup.2.5.38.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/El.Clasico.Arcade.Setup.2.5.38.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/ElClasicoArcade-v2.5.38.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.38/ElClasicoArcade-v2.5.38.apk",
+  "notes": "v2.5.38: Corrección de música durante Pre Intro 2, persistencia del nombre del jugador tras reinstalar, contador de horas jugadas en segundo plano y volumen físico móvil.",
   "changelog": [
-    "Corregida la música durante la introducción y el volumen móvil."
+    "Corregida la música del lobby que comenzaba prematuramente al iniciar Pre Intro 2",
+    "El nombre del jugador ahora se recupera correctamente después de desinstalar y reinstalar"
   ]
 }
