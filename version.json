@@ -1,12 +1,12 @@
 {
-  "version": "2.5.43",
+  "version": "2.5.44",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/El.Clasico.Arcade.Setup.2.5.43.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/El.Clasico.Arcade.Setup.2.5.43.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/ElClasicoArcade-v2.5.43.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/ElClasicoArcade-v2.5.43.apk",
-  "notes": "v2.5.43: Corrección de estabilidad en celulares de gama baja al cargar Nivel 2, mejoras en HUD de configuración y nueva disposición centrada de tienda con vidas y monedas fijadas.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/El.Clasico.Arcade.Setup.2.5.44.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/El.Clasico.Arcade.Setup.2.5.44.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/ElClasicoArcade-v2.5.44.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/ElClasicoArcade-v2.5.44.apk",
+  "notes": "v2.5.44: Corrección de reproducción de música y respuesta táctil en pantalla Inserte Fichin en Mobile.",
   "changelog": [
-    "Actualizamos la version Gay a cada Jugador 5"
+    "Pantalla Inserte Fichin móvil: Restaurada la reproducción de música de pre-intro al inicializar y al cargar elementos."
   ]
 }
