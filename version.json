@@ -1,13 +1,12 @@
 {
-  "version": "2.5.39",
+  "version": "2.5.40",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/El.Clasico.Arcade.Setup.2.5.39.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/El.Clasico.Arcade.Setup.2.5.39.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/ElClasicoArcade-v2.5.39.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.39/ElClasicoArcade-v2.5.39.apk",
-  "notes": "v2.5.39: Corrección de opacidad de controles, horas jugadas, recomendación de controles en carga, y escalado de tienda móvil.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/El.Clasico.Arcade.Setup.2.5.40.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/El.Clasico.Arcade.Setup.2.5.40.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/ElClasicoArcade-v2.5.40.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/ElClasicoArcade-v2.5.40.apk",
+  "notes": "v2.5.40: Música de INSERTE FICHIN, controles visibles al iniciar nivel, escalado de tienda móvil.",
   "changelog": [
-    "Corregida la opacidad de controles al volver del segundo plano.",
-    "Corregido el contador de horas jugadas en Android."
+    "Corregida música de pantalla inicial, visibilidad de controles y tamaño de tienda en móvil."
   ]
 }
