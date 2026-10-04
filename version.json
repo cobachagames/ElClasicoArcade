@@ -1,12 +1,12 @@
 {
-  "version": "2.5.42",
+  "version": "2.5.43",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/El.Clasico.Arcade.Setup.2.5.42.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/El.Clasico.Arcade.Setup.2.5.42.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/ElClasicoArcade-v2.5.42.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/ElClasicoArcade-v2.5.42.apk",
-  "notes": "v2.5.42: Correcciones de configuración móvil, controles táctiles y nueva navegación en tienda.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/El.Clasico.Arcade.Setup.2.5.43.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/El.Clasico.Arcade.Setup.2.5.43.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/ElClasicoArcade-v2.5.43.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.43/ElClasicoArcade-v2.5.43.apk",
+  "notes": "v2.5.43: Corrección de estabilidad en celulares de gama baja al cargar Nivel 2, mejoras en HUD de configuración y nueva disposición centrada de tienda con vidas y monedas fijadas.",
   "changelog": [
-    "A ver si funciona esta poronga."
+    "Actualizamos la version Gay a cada Jugador"
   ]
 }
