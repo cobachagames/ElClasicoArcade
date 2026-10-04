@@ -1,12 +1,12 @@
 {
-  "version": "2.5.40",
+  "version": "2.5.41",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/El.Clasico.Arcade.Setup.2.5.40.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/El.Clasico.Arcade.Setup.2.5.40.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/ElClasicoArcade-v2.5.40.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.40/ElClasicoArcade-v2.5.40.apk",
-  "notes": "v2.5.40: Música de INSERTE FICHIN, controles visibles al iniciar nivel, escalado de tienda móvil.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/El.Clasico.Arcade.Setup.2.5.41.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/El.Clasico.Arcade.Setup.2.5.41.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/ElClasicoArcade-v2.5.41.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/ElClasicoArcade-v2.5.41.apk",
+  "notes": "v2.5.41: Corrección de error de micrófono en ajustes y comportamiento de audio al suspender la app en celular.",
   "changelog": [
-    "Corregida música de pantalla inicial, visibilidad de controles y tamaño de tienda en móvil."
+    "Corrección de error de micrófono en ajustes y comportamiento de audio al suspender la app en celular."
   ]
 }
