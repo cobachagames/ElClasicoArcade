@@ -1,12 +1,12 @@
 {
-  "version": "2.5.41",
+  "version": "2.5.42",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/El.Clasico.Arcade.Setup.2.5.41.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/El.Clasico.Arcade.Setup.2.5.41.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/ElClasicoArcade-v2.5.41.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.41/ElClasicoArcade-v2.5.41.apk",
-  "notes": "v2.5.41: Corrección de error de micrófono en ajustes y comportamiento de audio al suspender la app en celular.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/El.Clasico.Arcade.Setup.2.5.42.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/El.Clasico.Arcade.Setup.2.5.42.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/ElClasicoArcade-v2.5.42.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.42/ElClasicoArcade-v2.5.42.apk",
+  "notes": "v2.5.42: Correcciones de configuración móvil, controles táctiles y nueva navegación en tienda.",
   "changelog": [
-    "Corrección de error de micrófono en ajustes y comportamiento de audio al suspender la app en celular."
+    "A ver si funciona esta poronga."
   ]
 }
