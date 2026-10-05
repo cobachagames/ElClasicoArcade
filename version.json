@@ -1,12 +1,12 @@
 {
-  "version": "2.5.44",
+  "version": "2.5.45",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/El.Clasico.Arcade.Setup.2.5.44.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/El.Clasico.Arcade.Setup.2.5.44.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/ElClasicoArcade-v2.5.44.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.44/ElClasicoArcade-v2.5.44.apk",
-  "notes": "v2.5.44: Corrección de reproducción de música y respuesta táctil en pantalla Inserte Fichin en Mobile.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.45/El.Clasico.Arcade.Setup.2.5.45.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.45/El.Clasico.Arcade.Setup.2.5.45.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.45/ElClasicoArcade-v2.5.45.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.45/ElClasicoArcade-v2.5.45.apk",
+  "notes": "v2.5.45: Correcciones de Audio en pantalla Inserte Fichin Mobile, inicialización limpia de Controles Táctiles al instalar y optimización de memoria para evitar crash en Nivel 2 en celulares de gama baja.",
   "changelog": [
-    "Pantalla Inserte Fichin móvil: Restaurada la reproducción de música de pre-intro al inicializar y al cargar elementos."
+    "Audio Mobile: Configurada cancion preintro.mp3 para sonar en la pantalla INSERTE FICHIN."
   ]
 }
