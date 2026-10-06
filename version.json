@@ -1,12 +1,12 @@
 {
-  "version": "2.5.47",
+  "version": "2.5.48",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/El.Clasico.Arcade.Setup.2.5.47.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/El.Clasico.Arcade.Setup.2.5.47.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/ElClasicoArcade-v2.5.47.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/ElClasicoArcade-v2.5.47.apk",
-  "notes": "v2.5.47: Actualización de efectos de sonido para Mr. Ajo y Mellizos, corrección nativa del instalador en Mobile.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/El.Clasico.Arcade.Setup.2.5.48.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/El.Clasico.Arcade.Setup.2.5.48.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/ElClasicoArcade-v2.5.48.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/ElClasicoArcade-v2.5.48.apk",
+  "notes": "v2.5.48: Versión de prueba para la verificación del instalador nativo de Android.",
   "changelog": [
-    "Sonido de Mr. Ajo actualizado con nuevo audio."
+    "La concha de tu madre rodri"
   ]
 }
