@@ -1,12 +1,12 @@
 {
-  "version": "2.5.46",
+  "version": "2.5.47",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.46/El.Clasico.Arcade.Setup.2.5.46.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.46/El.Clasico.Arcade.Setup.2.5.46.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.46/ElClasicoArcade-v2.5.46.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.46/ElClasicoArcade-v2.5.46.apk",
-  "notes": "v2.5.46: Nuevos audios de selección para Mr. Ajo (Excelent) y Mellizos (Te Parto) en PC y Mobile.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/El.Clasico.Arcade.Setup.2.5.47.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/El.Clasico.Arcade.Setup.2.5.47.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/ElClasicoArcade-v2.5.47.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.47/ElClasicoArcade-v2.5.47.apk",
+  "notes": "v2.5.47: Actualización de efectos de sonido para Mr. Ajo y Mellizos, corrección nativa del instalador en Mobile.",
   "changelog": [
-    "Reemplazado el audio de Mr. Ajo por el nuevo sonido Excelent."
+    "Sonido de Mr. Ajo actualizado con nuevo audio."
   ]
 }
