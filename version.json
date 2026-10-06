@@ -1,12 +1,12 @@
 {
-  "version": "2.5.48",
+  "version": "2.5.49",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/El.Clasico.Arcade.Setup.2.5.48.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/El.Clasico.Arcade.Setup.2.5.48.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/ElClasicoArcade-v2.5.48.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.48/ElClasicoArcade-v2.5.48.apk",
-  "notes": "v2.5.48: Versión de prueba para la verificación del instalador nativo de Android.",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.49/El.Clasico.Arcade.Setup.2.5.49.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.49/El.Clasico.Arcade.Setup.2.5.49.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.49/ElClasicoArcade-v2.5.49.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.49/ElClasicoArcade-v2.5.49.apk",
+  "notes": "v2.5.49: Corrección del crash en Level 2 para celulares de 2 GB de RAM mediante optimización dinámica de memoria de texturas.",
   "changelog": [
-    "La concha de tu madre rodri"
+    "Suerte en la chamba"
   ]
 }
