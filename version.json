@@ -1,12 +1,11 @@
 {
-  "version": "2.5.51",
+  "version": "2.5.52",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.51/El.Clasico.Arcade.Setup.2.5.51.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.51/El.Clasico.Arcade.Setup.2.5.51.exe",
-  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.51/ElClasicoArcade-v2.5.51.apk",
-  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.51/ElClasicoArcade-v2.5.51.apk",
-  "notes": "v2.5.51: Corrección de control de volumen físico multimedia en Android 14+ (VOL- / VOL+ con UI del sistema).",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.52/El.Clasico.Arcade.Setup.2.5.52.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.52/El.Clasico.Arcade.Setup.2.5.52.exe",
+  "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.52/ElClasicoArcade-v2.5.52.apk",
+  "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.52/ElClasicoArcade-v2.5.52.apk",
+  "notes": "v2.5.52: Corrección definitiva de botones físicos de volumen en Android 16 (gestión nativa sin consumo de KeyEvents).",
   "changelog": [
-    "VAMO MESSI"
-  ]
+    "MUCHACHOOOOOOOO"
 }
