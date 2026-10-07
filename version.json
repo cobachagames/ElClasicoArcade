@@ -1,12 +1,12 @@
 {
   "version": "2.5.54",
   "mandatory": false,
-  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.53/El.Clasico.Arcade.Setup.2.5.53.exe",
-  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.53/El.Clasico.Arcade.Setup.2.5.53.exe",
+  "downloadUrl": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.54/El.Clasico.Arcade.Setup.2.5.54.exe",
+  "downloadUrlPC": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.54/El.Clasico.Arcade.Setup.2.5.54.exe",
   "downloadUrlMobile": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.54/ElClasicoArcade-v2.5.54.apk",
   "downloadUrlAndroid": "https://github.com/cobachagames/ElClasicoArcade/releases/download/v2.5.54/ElClasicoArcade-v2.5.54.apk",
-  "notes": "v2.5.54: Corrección definitiva de volumen físico multimedia en Android 16 (migración a WindowInsetsControllerCompat).",
+  "notes": "v2.5.54: Corrección de control de volumen físico multimedia en Android 16 y compilación sincronizada de PC.",
   "changelog": [
-    "KE ASE AMIITO"
+    "ke ase amiguito"
   ]
 }
